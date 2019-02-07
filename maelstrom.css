@@ -1,6 +1,6 @@
 .remark-slide-content {
   background-color: #FAFAFA;
-  border-top: 80px solid #23373B;
+  border-top: 80px solid #AFB1B2;
   font-size: 20px;
   font-weight: 300;
   line-height: 1.5;
@@ -12,7 +12,7 @@
 }
 
 .inverse {
-  background-color: #23373B;
+  background-color: #AFB1B2;
   text-shadow: none;
 }
 
@@ -22,7 +22,7 @@
   font-size: 45px;
   margin-top: -95px;
   margin-left: -00px;
-  color: #FAFAFA;
+  color: black;
 }
 
 .remark-slide-content > inverse {
@@ -40,7 +40,7 @@ position: absolute;
 .remark-slide-content > h2, h3, h4 {
   padding-top: -15px;
   padding-bottom: 00px;
-  color: #1A292C;
+  color: #AFB1B2;
   text-shadow: none;
   font-weight: 400;
   text-align: left;
@@ -63,7 +63,7 @@ position: absolute;
 }
 
 .title-slide > h1  {
-  color: #1A292C;
+  color: black;
   font-size: 40px;
   text-shadow: none;
   font-weight: 400;
@@ -94,7 +94,7 @@ position: absolute;
 .remark-slide-number {
   font-size: 13pt;
   font-family: 'Fira Sans';
-  color: #272822;
+  color: #8E623F;
   opacity: 1;
 }
 .inverse .remark-slide-number {
