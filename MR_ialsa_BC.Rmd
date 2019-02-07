@@ -1,10 +1,10 @@
 ---
-title: "IALSA in Maelstrom Catalogue"
+title: "IALSA in Maelstrom Catalogue <html><div style='float:left'></div><hr color='#EB9B400' size=1px width=796px></html>"
 author: "Isabel Fortier, Denis Haine"
 date: "2019/02/04"
 output:
   xaringan::moon_reader:
-    css: [default, metropolis, metropolis-fonts]
+    css: [default, maelstrom.css, maelstrom-fonts.css]
     lib_dir: libs
     nature:
       highlightStyle: github
@@ -55,8 +55,9 @@ knitr::include_graphics("barplot_pop1.jpg")
 ```
 
 ---
+class: clear
 
-```{r echo=FALSE,fig.align='center',out.width="90%"}
+```{r echo=FALSE,fig.align='center',out.width="99%"}
 knitr::include_graphics("barplot_pop2.jpg")
 ```
 
