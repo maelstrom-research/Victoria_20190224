@@ -1,0 +1,19 @@
+/data
+
+*~
+.#*
+
+tramp.*
+
+# no R history
+.Rhistory
+
+# no rda files
+*.rda
+# *.Rdata
+
+./01-dhaine-get_data.R
+./02a-dhaine-make_dataset_IALSA.R
+./02b-dhaine-make_dataset_ATHLOS.R
+./02c-dhaine-make_dataset_MINDMAP.R
+./02d-dhaine-make_dataset_NEAR.R
